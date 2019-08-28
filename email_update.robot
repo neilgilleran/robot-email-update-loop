@@ -30,6 +30,7 @@ Log in user test
     Input Text    id:P101_PASSWORD    ${password}
     
     Click Element       name:P101_LOGIN
+    
     BuiltIn.Sleep 	2
 
     Click Element   xpath://*[@id="R27439901205983165"]/div[1]/a/img    
