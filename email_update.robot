@@ -23,7 +23,7 @@ ${BROWSER}		Chrome
 Log in user test
     Open Browser    ${LOGIN URL}    ${BROWSER}
 
-    ${username} = Get Value From User   Input username  hidden=no
+    ${username} =   Get Value From User   Input username  hidden=no
     Input Text      id:P101_USERNAME    ${username}
     
     ${password} =   Get Value From User   Input password  hidden=yes    
