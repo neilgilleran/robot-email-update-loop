@@ -15,9 +15,8 @@ ${BROWSER}		Chrome
      
 
 #update the following lists with the matching ID's and email addresses
-@{eyedees}      19109999
-@{eeemails}     19109999@rcsi.ie
-
+@{eyedees}      12341234
+@{eeemails}     1234@rcsi.ie
 
 *** Test Cases ***
 Log in user test
